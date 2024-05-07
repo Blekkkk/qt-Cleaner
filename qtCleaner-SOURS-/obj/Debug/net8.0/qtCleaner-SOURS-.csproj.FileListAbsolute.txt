@@ -1,0 +1,14 @@
+C:\Users\qcf\Desktop\C#\qtCleaner-SOURS-\bin\Debug\net8.0\qtCleaner-SOURS-.exe
+C:\Users\qcf\Desktop\C#\qtCleaner-SOURS-\bin\Debug\net8.0\qtCleaner-SOURS-.deps.json
+C:\Users\qcf\Desktop\C#\qtCleaner-SOURS-\bin\Debug\net8.0\qtCleaner-SOURS-.runtimeconfig.json
+C:\Users\qcf\Desktop\C#\qtCleaner-SOURS-\bin\Debug\net8.0\qtCleaner-SOURS-.dll
+C:\Users\qcf\Desktop\C#\qtCleaner-SOURS-\bin\Debug\net8.0\qtCleaner-SOURS-.pdb
+C:\Users\qcf\Desktop\C#\qtCleaner-SOURS-\obj\Debug\net8.0\qtCleaner-SOURS-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qcf\Desktop\C#\qtCleaner-SOURS-\obj\Debug\net8.0\qtCleaner-SOURS-.AssemblyInfoInputs.cache
+C:\Users\qcf\Desktop\C#\qtCleaner-SOURS-\obj\Debug\net8.0\qtCleaner-SOURS-.AssemblyInfo.cs
+C:\Users\qcf\Desktop\C#\qtCleaner-SOURS-\obj\Debug\net8.0\qtCleaner-SOURS-.csproj.CoreCompileInputs.cache
+C:\Users\qcf\Desktop\C#\qtCleaner-SOURS-\obj\Debug\net8.0\qtCleaner-SOURS-.dll
+C:\Users\qcf\Desktop\C#\qtCleaner-SOURS-\obj\Debug\net8.0\refint\qtCleaner-SOURS-.dll
+C:\Users\qcf\Desktop\C#\qtCleaner-SOURS-\obj\Debug\net8.0\qtCleaner-SOURS-.pdb
+C:\Users\qcf\Desktop\C#\qtCleaner-SOURS-\obj\Debug\net8.0\qtCleaner-SOURS-.genruntimeconfig.cache
+C:\Users\qcf\Desktop\C#\qtCleaner-SOURS-\obj\Debug\net8.0\ref\qtCleaner-SOURS-.dll
